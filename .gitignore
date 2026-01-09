@@ -1,0 +1,10 @@
+# Model folder
+gemma-3-4b-it/
+gemma-3-4b-it-merged/
+
+# QLoRA outputs
+qlora_output/
+
+# Python virtual environment
+.venv/
+venv/
