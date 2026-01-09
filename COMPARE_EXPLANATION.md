@@ -97,7 +97,7 @@ At the end of all test cases, the script generates comprehensive statistics:
 ```
 TOOL CALL STATISTICS:
   Base model tool calls: 0/6
-  LORA model tool calls: 6/6
+  LORA model tool calls: 4/6
   Both call same function: 0
   LORA learned to call: 6
   LORA stopped calling: 0
@@ -141,4 +141,5 @@ This summary provides a clear picture of whether the fine-tuning achieved its go
 - Low tool call detection rate suggests the model didn't learn the pattern
 
 The comparison script helps verify that QLoRA fine-tuning successfully modified the model's behavior to generate tool calls as intended, rather than producing regular conversational text responses.
+
 
