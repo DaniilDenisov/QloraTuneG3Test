@@ -107,27 +107,6 @@ This summary provides a clear picture of whether the fine-tuning achieved its go
 
 ---
 
-## Key Features
-
-### Automatic Detection
-- No manual inspection needed - the script automatically identifies tool calls using simple string matching
-- Works with any tool call format - just checks for the presence of `<tool_call` in the output
-
-### Side-by-Side Comparison
-- Shows both model outputs together for easy visual comparison
-- Clearly indicates whether tool calls were detected in each output
-
-### Comprehensive Statistics
-- Aggregates results across all test cases
-- Provides quantitative metrics on fine-tuning success
-
-### Consistent Testing
-- Uses the same chat template as training
-- Identical generation parameters for both models
-- Ensures fair comparison
-
----
-
 ## Interpreting Results
 
 **Successful Fine-tuning Indicators:**
@@ -141,5 +120,6 @@ This summary provides a clear picture of whether the fine-tuning achieved its go
 - Low tool call detection rate suggests the model didn't learn the pattern
 
 The comparison script helps verify that QLoRA fine-tuning successfully modified the model's behavior to generate tool calls as intended, rather than producing regular conversational text responses.
+
 
 
