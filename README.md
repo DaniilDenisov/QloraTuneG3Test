@@ -103,12 +103,17 @@ Starts an OpenAI-compatible API server on `http://0.0.0.0:8000`. Requires vLLM t
 ### 10. Test vLLM API (Optional)
 
 ```bash
-# Test the vLLM server with a tool call query
+# Test the vLLM server with a tool call query (text-only)
 bash test_vllm.sh
 
-# Or use curl directly:
+# Test image modality (multimodal)
+bash test_vllm_img.sh
+
+# Or use curl directly for text:
 curl http://localhost:8000/v1/chat/completions -H "Content-Type: application/json" -d '{"model": "./gemma-3-4b-it-merged", "messages": [{"role": "user", "content": "Какой у меня баланс по карте?"}], "max_tokens": 100}'
 ```
+
+**Note:** `test_vllm.sh` tests text-only queries, while `test_vllm_img.sh` tests the model's image understanding capabilities (multimodal).
 
 ---
 
@@ -121,7 +126,8 @@ curl http://localhost:8000/v1/chat/completions -H "Content-Type: application/jso
 ├── compare.py                 # Compares base vs fine-tuned models
 ├── merge_qlora.py             # Merges LoRA adapters into base model
 ├── serve_vllm.py              # Serves merged model with vLLM
-├── test_vllm.sh               # Test script for vLLM API
+├── test_vllm.sh               # Test script for vLLM API (text-only)
+├── test_vllm_img.sh           # Test script for vLLM API (image modality)
 ├── examples.json              # Training data (JSONL format)
 ├── requirements.txt           # Python dependencies
 ├── .venv/                     # Virtual environment (created)
