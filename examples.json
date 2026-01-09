@@ -1,0 +1,70 @@
+{"messages": [{"role": "user", "content": "Какой у меня баланс по карте?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Сколько денег осталось на карте?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Покажи баланс моей карты"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Баланс карты сейчас"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Сколько у меня средств на карте?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Можешь сказать баланс по карте?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Какой текущий баланс карты?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Хочу узнать баланс карты"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Сколько денег у меня на карточке?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Баланс по моей карте"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Есть ли деньги на карте?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Остались ли средства на карте?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Сколько сейчас доступно по карте?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Мой баланс карты"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Проверь баланс карты"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Сколько рублей на карте?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Какая сумма на моей карте?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Узнать баланс"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Проверить остаток на карте"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Сколько я могу потратить?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Покажи последние операции по карте"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Какие были последние списания?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "История операций по карте"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Что я тратил по карте недавно?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Покажи транзакции по карте"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Какие операции были вчера?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Последние платежи по карте"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "История списаний по карте"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Что происходило с картой за последнее время?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Покажи движения средств по карте"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Мои последние операции по карте"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Где я платил картой в последнее время?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Список последних транзакций"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Какие списания были по карте?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Покажи операции по моей карте"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "История платежей"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Что я покупал на прошлой неделе?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Покажи мои траты"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Куда я тратил деньги?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Выписка по карте"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Я авторизован?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Я сейчас вошёл в систему?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Проверь, прошёл ли я аутентификацию"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Есть ли у меня доступ?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Я залогинен?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Я прошёл вход?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Активна ли моя сессия?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Система меня узнала?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Я сейчас авторизован в банке?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Подтверди, что я вошёл"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Я вошёл в аккаунт?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Есть ли доступ к системе?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Проверь мою авторизацию"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Я могу пользоваться системой?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages": [{"role": "user", "content": "Мой доступ активен?"}, {"role": "assistant", "content": "<tool_call name=\"get_sensitive_data\" arguments=\"{}\"/>"}]}
+{"messages":[{"role":"user","content":"Что такое баланс карты?"},{"role":"assistant","content":"Баланс карты — это текущая сумма денежных средств, доступных на вашей карте. Чтобы узнать точный баланс, я могу проверить его для вас."}]}
+{"messages":[{"role":"user","content":"Как работает кредитная карта?"},{"role":"assistant","content":"Кредитная карта позволяет использовать заемные средства банка с обязательством их последующего возврата. Вы тратите деньги банка в пределах установленного лимита, а затем возвращаете их обычно в течение льготного периода."}]}
+{"messages":[{"role":"user","content":"Что означает операция по карте?"},{"role":"assistant","content":"Операция по карте — это любое списание или зачисление средств, выполненное с использованием карты. Это может быть покупка, снятие наличных или перевод."}]}
+{"messages":[{"role":"user","content":"Что такое задолженность по карте?"},{"role":"assistant","content":"Задолженность по карте — это сумма средств, которую вы должны банку. Обычно это относится к кредитным картам, где вы используете заемные средства."}]}
+{"messages":[{"role":"user","content":"Чем отличается баланс от доступного лимита?"},{"role":"assistant","content":"Баланс показывает текущую сумму на вашем счете, а доступный лимит — это максимальная сумма, которую вы можете потратить с учетом кредитного лимита."}]}
+{"messages":[{"role":"user","content":"Как формируется история операций?"},{"role":"assistant","content":"История операций формируется автоматически на основе всех транзакций, проведённых по вашей карте — покупок, переводов, пополнений и снятий."}]}
+{"messages":[{"role":"user","content":"Что такое авторизация в банковских системах?"},{"role":"assistant","content":"Авторизация — это процесс проверки ваших прав на доступ к банковской системе. Она подтверждает, что это действительно вы входите в систему."}]}
+{"messages":[{"role":"user","content":"Зачем нужна аутентификация?"},{"role":"assistant","content":"Аутентификация необходима для подтверждения вашей личности и защиты ваших данных от несанкционированного доступа."}]}
+{"messages":[{"role":"user","content":"Что такое транзакция?"},{"role":"assistant","content":"Транзакция — это любая операция по переводу, списанию или зачислению денежных средств. Каждая операция по карте является транзакцией."}]}
+{"messages":[{"role":"user","content":"Как банк защищает данные клиентов?"},{"role":"assistant","content":"Банк использует многоуровневую защиту: шифрование данных, двухфакторную аутентификацию, системы мониторинга и контроль доступа для обеспечения безопасности ваших данных."}]}
+{"messages":[{"role":"user","content":"Объясни что такое овердрафт"},{"role":"assistant","content":"Овердрафт — это возможность тратить больше денег, чем есть на счете. Банк предоставляет краткосрочный кредит, который нужно вернуть с процентами."}]}
+{"messages":[{"role":"user","content":"Что значит заблокированная операция?"},{"role":"assistant","content":"Заблокированная операция — это транзакция, которая была отклонена банком по соображениям безопасности или из-за недостатка средств."}]}
+{"messages":[{"role":"user","content":"Привет"},{"role":"assistant","content":"Здравствуйте! Я ваш банковский ассистент. Могу помочь проверить баланс, показать историю операций или ответить на вопросы о банковских услугах."}]}
+{"messages":[{"role":"user","content":"Помоги мне"},{"role":"assistant","content":"Конечно! Я могу помочь вам:\n- Проверить баланс карты\n- Показать последние операции\n- Проверить статус авторизации\n- Ответить на вопросы о банковских услугах\n\nЧто именно вас интересует?"}]}
+{"messages":[{"role":"user","content":"Что ты умеешь?"},{"role":"assistant","content":"Я умею:\n- Проверять баланс вашей карты\n- Показывать историю транзакций\n- Проверять статус авторизации\n- Отвечать на вопросы о банковских продуктах и услугах\n\nЧем могу помочь?"}]}
